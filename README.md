@@ -3,12 +3,12 @@
 
 ## 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻-𝙱𝙷𝙴𝚁𝙾𝙽
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻+𝙱𝙷𝙴𝚁𝙾𝙽+☠︎︎)](https://git.io/typing-svg) 
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Qᥙᥱ֟፝ᥱn+𝙼𝙳+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙾𝙵𝙵𝙸𝙲𝙸𝙰-𝙱𝙷𝙴𝚁𝙾𝙽)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Qᥙᥱ֟፝ᥱn+𝙼𝙳+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙾𝙵𝙵𝙸𝙲𝙸𝙰+𝙱𝙷𝙴𝚁𝙾𝙽+☠︎︎)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/puktjb.jpg"
 
@@ -55,15 +55,15 @@
 
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=☠︎︎☠︎︎green&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
  
 
 
-  <a href="https://queen-md-sessions-generator-m6oc.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  <a href="https://queen-md-sessions-generator-m6oc.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=adidas" width="230" height="38.45"/></a></p>
 
   
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
 
  
@@ -74,7 +74,7 @@
 
    🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
+   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
