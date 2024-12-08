@@ -1,14 +1,14 @@
 # QUEEN-MD
-img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
+
+## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋-𝐁𝐇𝐄𝐑𝐎𝐍
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Qᥙᥱ֟፝ᥱn+𝙼𝙳+⭕+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙾𝙵𝙵𝙸𝙲𝙸𝙰-𝙱𝙷𝙴𝚁𝙾𝙽)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://i.ibb.co/2PMz2VZ/IMG-20241019-WA0222.jpg" width="500" height="500" />
 
@@ -20,7 +20,7 @@ img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐄𝐍𝐙𝐎 𝐌𝐃 𝐁𝐎𝐓 
+## 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙿𝚁𝙾𝙶𝚁𝙴𝚂𝚂 𝙵𝙾𝚁  Qᥙᥱ֟፝ᥱn-𝙼𝙳 𝙱𝙾𝚃
 
 
 <p align="center">
@@ -40,7 +40,7 @@ img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
 
-## HOW TO GET ENZO MD BOT
+## 𝙷𝙾𝚆 𝚃𝙾 𝙶𝙴𝚃 Qᥙᥱ֟፝ᥱn-𝙼𝙳 𝙱𝙾𝚃
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -99,7 +99,7 @@ img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT OFFICIAL-BHERON HERE
+## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻-𝙱𝙷𝙴𝚁𝙾𝙽 𝙷𝙴𝚁𝙴
   DM FOR SERIOUS BUSINESS
 
    <a href="https://github.com/ENZOTECH2/ENZO-INFO"><img title="CONTACT-ENZO" src="https://img.shields.io/badge/CONTACT-ENZO-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
