@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Qᥙᥱ֟፝ᥱn+𝙼𝙳+⭕+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙾𝙵𝙵𝙸𝙲𝙸𝙰-𝙱𝙷𝙴𝚁𝙾𝙽)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Qᥙᥱ֟፝ᥱn+𝙼𝙳+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙾𝙵𝙵𝙸𝙲𝙸𝙰-𝙱𝙷𝙴𝚁𝙾𝙽)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://files.catbox.moe/puktjb.jpg" width="500" height="500" />
 
@@ -24,16 +24,16 @@
 
 
 <p align="center">
-<a href="https://github.com/ENZOTECH2/followers"><img title="Followers" src="https://img.shields.io/github/followers/ENZOTECH2?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/ENZOTECH2/ENZO-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/djbheron100/followers"><img title="Followers" src="https://img.shields.io/github/followers/djbheron100?color=blue&style=flat-square"></a>
+<a href="https://github.com/djbheron100/QUEEN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/djbheron100/QUEEN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/djbheron100/QUEEN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/djbheron100/QUEEN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/djbheron100/QUEEN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/djbheron100/QUEEN-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/djbheron100/QUEEN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{ENZO-MD}/count.svg" alt="Enzo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{enzo}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{QUEEN-MD}/count.svg" alt="queen :: Visitor's Count" old_src="https://profile-counter.glitch.me/{queen}/count.svg" /></p>
 
 
 
@@ -48,7 +48,7 @@
 
   
    
-   <a href="https://github.com/ENZOTECH2/ENZO-MD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/djbheron100/QUEEN-MD/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -78,16 +78,14 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/ENZOTECH2/ENZO-MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/djbheron100/QUEEN-MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## FINAL REMARKS ON MY REPO (STATS)
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Enzotech&repo=-MD&show_owner=true&theme=dark)
 
 
 
@@ -102,6 +100,6 @@
 ## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻-𝙱𝙷𝙴𝚁𝙾𝙽 𝙷𝙴𝚁𝙴
   DM FOR SERIOUS BUSINESS
 
-   <a href="https://github.com/ENZOTECH2/ENZO-INFO"><img title="CONTACT-ENZO" src="https://img.shields.io/badge/CONTACT-ENZO-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+   <a-INFO"><img title="CONTACT-OFFICIAL-BHERON" 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
