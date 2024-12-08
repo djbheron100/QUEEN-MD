@@ -100,6 +100,5 @@
 ## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻-𝙱𝙷𝙴𝚁𝙾𝙽 𝙷𝙴𝚁𝙴
   DM FOR SERIOUS BUSINESS
 
-   <a-INFO"><img title="CONTACT-OFFICIAL-BHERON" 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
+https://wa.me/message/YD7HDLSQ4LNGH1
