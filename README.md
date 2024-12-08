@@ -1,7 +1,7 @@
 # QUEEN-MD
 
 
-## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋-𝐁𝐇𝐄𝐑𝐎𝐍
+## 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙸𝚂 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻-𝙱𝙷𝙴𝚁𝙾𝙽
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
 
@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Qᥙᥱ֟፝ᥱn+𝙼𝙳+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙾𝙵𝙵𝙸𝙲𝙸𝙰-𝙱𝙷𝙴𝚁𝙾𝙽)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://files.catbox.moe/puktjb.jpg" width="500" height="500" />
+<p align="centre"><img src="https://files.catbox.moe/puktjb.jpg"
 
 
 
