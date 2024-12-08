@@ -33,7 +33,7 @@
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{QUEEN-MD}/count.svg" alt="queen :: Visitor's Count" old_src="https://profile-counter.glitch.me/{queen}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{queen}/count.svg" alt="djbheron100 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{queen}/count.svg" /></p>
 
 
 
