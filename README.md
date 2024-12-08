@@ -87,18 +87,28 @@
 
 
 
+</a>
+## Join my channel for updates
+<a href="https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://chat.whatsapp.com/GL85xQXuJhRFZ7KIphLCR9?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 
-
-
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻-𝙱𝙷𝙴𝚁𝙾𝙽 𝙷𝙴𝚁𝙴
-  DM FOR SERIOUS BUSINESS
-
+## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙷𝙴𝚁𝙾𝙽 𝙷𝙴𝚁𝙴
+ 
    
-https://wa.me/message/YD7HDLSQ4LNGH1
+   <a href="https://wa.me/880 1602-072612">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a
+
+   ## 𝙰𝚂𝙺 𝙰𝙽𝚈 𝚃𝙷𝙸𝙽𝙶
+
+
+
+
+
+
+
+
