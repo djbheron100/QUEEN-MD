@@ -88,8 +88,8 @@
 
 
 </a>
-   𝙵𝙾𝙻𝙻𝙾𝚆 𝙼𝚈 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴𝚂
-<a href="https://whatsapp.com/channel/0029VadbcXREFeXq720tTN0D" target="_blank">
+   𝙹𝙾𝙸𝙽 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙿 𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴𝚂
+
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://chat.whatsapp.com/GL85xQXuJhRFZ7KIphLCR9?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
