@@ -90,9 +90,10 @@
 </a>
    𝙹𝙾𝙸𝙽 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙿 𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴𝚂
 
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://chat.whatsapp.com/GL85xQXuJhRFZ7KIphLCR9?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<a
+href="https://chat.whatsapp.com/GL85xQXuJhRFZ7KIphLCR9" target="blank"><img
+ align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="𝚄𝙿𝙳𝙰𝚃𝙴" height="60" width="70" /></a>
+
 
 
 ## 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙷𝙴𝚁𝙾𝙽 𝙷𝙴𝚁𝙴
